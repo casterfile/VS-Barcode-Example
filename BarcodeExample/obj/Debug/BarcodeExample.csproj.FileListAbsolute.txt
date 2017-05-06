@@ -1,0 +1,10 @@
+D:\Visual Studio\BarcodeExample\BarcodeExample\bin\Debug\BarcodeExample.exe.config
+D:\Visual Studio\BarcodeExample\BarcodeExample\bin\Debug\BarcodeExample.exe
+D:\Visual Studio\BarcodeExample\BarcodeExample\bin\Debug\BarcodeExample.pdb
+D:\Visual Studio\BarcodeExample\BarcodeExample\bin\Debug\Zen.Barcode.Core.dll
+D:\Visual Studio\BarcodeExample\BarcodeExample\obj\Debug\BarcodeExample.csprojResolveAssemblyReference.cache
+D:\Visual Studio\BarcodeExample\BarcodeExample\obj\Debug\BarcodeExample.Form1.resources
+D:\Visual Studio\BarcodeExample\BarcodeExample\obj\Debug\BarcodeExample.Properties.Resources.resources
+D:\Visual Studio\BarcodeExample\BarcodeExample\obj\Debug\BarcodeExample.csproj.GenerateResource.Cache
+D:\Visual Studio\BarcodeExample\BarcodeExample\obj\Debug\BarcodeExample.exe
+D:\Visual Studio\BarcodeExample\BarcodeExample\obj\Debug\BarcodeExample.pdb
